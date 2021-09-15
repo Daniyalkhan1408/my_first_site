@@ -1,0 +1,30 @@
+@media(max-width: 575px){
+	.menu{
+		position: inherit;
+	}
+	.menu a{
+		width: 100%;
+		padding: 20px 0;
+	}
+	.header{
+		padding: 100px 10px;
+		margin-top: 0;
+		background-size: cover;
+		background-position: center center;  
+		min-height: 300px;
+	} 
+	#about_company{
+        height:auto;
+	}
+	.member{
+		width: 100%;
+		box-sizing: border-box;
+		margin: 0;
+		margin-bottom: 15px;
+	}
+	.tariff{
+		margin: 0;
+		width: 90%;
+		margin-bottom: 15px; 
+	}
+}
